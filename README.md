@@ -9,4 +9,4 @@ I am fully focused in python development, however, I apply any other tool that i
 
 ## GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=dark)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alextron1c&show_icons=true&theme=dark)
