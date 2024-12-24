@@ -8,13 +8,13 @@ I am fully focused in python development, however, I apply any other tool that i
 ![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alextron1c&layout=compact&theme=dark)
 
 ### Main Tools
-<img src="https://github.com/Alextron1c/Alextron1c/blob/main/Images%20Main%20Profile/python.png" width="50"> Python  
-<img src="https://github.com/Alextron1c/Alextron1c/blob/main/Images%20Main%20Profile/JS.png" width="50"> JavaScript  
-<img src="https://github.com/Alextron1c/Alextron1c/blob/main/Images%20Main%20Profile/CSS.png" width="50"> CSS  
-<img src="https://github.com/Alextron1c/Alextron1c/blob/main/Images%20Main%20Profile/HTML.png" width="50"> HTML  
-<img src="https://github.com/Alextron1c/Alextron1c/blob/main/Images%20Main%20Profile/AWS.png" width="50"> AWS  
-<img src="https://github.com/Alextron1c/Alextron1c/blob/main/Images%20Main%20Profile/GCP.png" width="50"> GCP  
-<img src="https://github.com/Alextron1c/Alextron1c/blob/main/Images%20Main%20Profile/MySQL.png" width="50"> MySQL
+<img src="https://github.com/Alextron1c/Alextron1c/blob/main/Images%20Main%20Profile/python.png" width="50"> 
+<img src="https://github.com/Alextron1c/Alextron1c/blob/main/Images%20Main%20Profile/JS.png" width="50"> 
+<img src="https://github.com/Alextron1c/Alextron1c/blob/main/Images%20Main%20Profile/CSS.png" width="50">  
+<img src="https://github.com/Alextron1c/Alextron1c/blob/main/Images%20Main%20Profile/HTML.png" width="50">  
+<img src="https://github.com/Alextron1c/Alextron1c/blob/main/Images%20Main%20Profile/AWS.png" width="50"> 
+<img src="https://github.com/Alextron1c/Alextron1c/blob/main/Images%20Main%20Profile/GCP.png" width="50">  
+<img src="https://github.com/Alextron1c/Alextron1c/blob/main/Images%20Main%20Profile/MySQL.png" width="50"> 
 
 
 ### Frameworks:
@@ -35,3 +35,4 @@ I am fully focused in python development, however, I apply any other tool that i
 ## GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alextron1c&show_icons=true&theme=dark)
+
