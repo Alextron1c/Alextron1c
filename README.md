@@ -10,7 +10,7 @@ I am fully focused in python development, however, I apply any other tool that i
 ## Main Tools
 
 ### Programming Languages:
-- ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) 
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) 
   
 ### Frameworks:
 - ![Django](https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg) 
