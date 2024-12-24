@@ -8,9 +8,9 @@ I am fully focused in python development, however, I apply any other tool that i
 ![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alextron1c&layout=compact&theme=dark)
 
 ### Main Tools
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) Python
-![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png) JavaScript
-![CSS](https://upload.wikimedia.org/wikipedia/commons/6/61/CSS3_logo.svg) CSS
+![Python]([https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)) Python
+![JavaScript]([https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)) JavaScript
+![CSS]([https://upload.wikimedia.org/wikipedia/commons/6/61/CSS3_logo.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)) CSS
 ![HTML](https://upload.wikimedia.org/wikipedia/commons/7/73/HTML5_logo_2019.svg) HTML
 ![AWS](https://upload.wikimedia.org/wikipedia/commons/9/9a/Amazon_Web_Services_Logo.svg) AWS
 ![GCP](https://upload.wikimedia.org/wikipedia/commons/8/81/Google_Cloud_logo.svg) GCP
